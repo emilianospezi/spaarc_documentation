@@ -1,5 +1,6 @@
 # Set up SPAARC Matlab
 
+### [Back to Contents](../README.md)
 
 ## Requirements
 
