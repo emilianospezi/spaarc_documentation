@@ -24,8 +24,8 @@ This repository contains text and video instructions for the use of SPAARC acros
 ## Contents 
 
 ### 1. Installation and configuration of SPAARC 
-   - a. Installation and configuration in MICE ([link](spaarc_micetoolkit/1_a_MICE_installation_instructions.md))
-   - b. Installation and configuration in MATLAB ([link](spaarc_matlab/1_b_Install_for_SPAARC_Matlab.md))
+   - a. Installation and configuration in MICE ([link](1_a_MICE_installation_instructions.md))
+   - b. Installation and configuration in MATLAB ([link](1_b_SPAARC_Matlab_setup.md))
    - c. Installation and configuration of pure anaconda python environment 
 
  

@@ -1,8 +1,8 @@
 # MICE Toolkit - Install custom environment for SPAARC  
 
-### [Back to Contents](../README.md)
+### [Back to Contents](README.md)
 
-### [Video](./1_a_MICE_Toolkit_Install_custom_environment_SPAARC.mov)
+### [Video](videos/1_a_MICE_Toolkit_Install_custom_environment_SPAARC.mov)
 
 ## Overview
 Set up custom environment for spaarc assuming a fresh installation of MICE toolkit. 
