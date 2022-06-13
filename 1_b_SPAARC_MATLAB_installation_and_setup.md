@@ -18,6 +18,8 @@
 
 - SPAARC Matlab source code (Downloaded from appropriate Gitlab Repository.)
 
+- Valid SPAARC Licence 
+
 ## Steps 
 
 1. Install Matlab as required above. 
