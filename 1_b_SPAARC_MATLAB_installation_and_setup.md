@@ -2,6 +2,8 @@
 
 ### [Back to Contents](README.md)
 
+### [Video](videos/1_b_SPAARC_Matlab_installation.mov)
+
 ## Requirements
 
 - Recommended: Matlab 2021 a or b
