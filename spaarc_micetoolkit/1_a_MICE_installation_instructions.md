@@ -1,5 +1,8 @@
 # MICE Toolkit - Install custom environment for SPAARC  
 
+### [Back to Contents](../README.md)
+
+
 ## Overview
 Set up custom environment for spaarc assuming a fresh installation of MICE toolkit. 
 
@@ -39,4 +42,4 @@ Set up custom environment for spaarc assuming a fresh installation of MICE toolk
 ####  5. Point to custom python environment in MICE
 
 - Go to Menu PLUGIN -> Python Settings -> use external interpreter and select python.exe from 
-WPy64-39100\python-3.9.10.amd64 folder. 
+WPy64-39100\python-3.9.10.amd64 folder.
