@@ -23,7 +23,9 @@ Set up custom environment for spaarc assuming a fresh installation of MICE toolk
     SimpleITK
     ```
 
-####  3. Put requirements.txt into scripts folder of winpython download
+####  3. Put requirements.txt into scripts folder of WinPython download
+
+- WPy64-39100\scripts
 
 
 ####  4. Run _WinPython Command Prompt.exe_
