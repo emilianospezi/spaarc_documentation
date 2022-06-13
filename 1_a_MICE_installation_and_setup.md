@@ -1,4 +1,4 @@
-# MICE Toolkit - Install custom environment for SPAARC  
+# SPAARC in MICE Toolkit: Installation & Setup
 
 ### [Back to Contents](README.md)
 
