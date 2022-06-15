@@ -13,7 +13,10 @@ Running feature extraction in MICE Toolkit requires 3 things:
 
 
 ## NIfTI Demo 
+
+### [Video](videos/2_b_i_SPAARC_MICE_NIfTI.mp4)
+
 ![](attachments/SPAARC_nifti_simple_example.png)
->_Caption_: Simple radiomics work flow  
+>_Caption_: Simple SPAARC radiomics work flow using NIfTI Image and Mask data/  
 
 The demo video a

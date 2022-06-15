@@ -2,7 +2,7 @@
 
 ### [Back to Contents](README.md)
 
-### [Video](videos/1_b_SPAARC_Matlab_installation.mov)
+### [Video](videos/1_b_SPAARC_Matlab_installation.mp4)
 
 ## Requirements
 
