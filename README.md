@@ -1,6 +1,9 @@
 # Spaarc documentation
 
 
+<img src="attachments/spaarclogo.png" width="500">
+
+
 ## Overview
 
 SPAARC-Radiomics is a tool for multimodal quantitative image analysis developed at Cardiff University School of 

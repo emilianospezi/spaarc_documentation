@@ -1,0 +1,21 @@
+{
+  "feature_families": ["morph","stats", "ih", "glcm", "glrlm", "glszm", "gldzm", "ngldm", "ngtdm"],
+
+  "re_segmentation_range": {"min": -200, "max": 200},
+  "re_segmentation_outlier_filtering": {"apply": false, "sigma": 3},
+
+  
+  "bin_method": "FBS",
+  "bin_value": 10,
+  "analysis_type": "3D",
+
+  "texture_parameters":{
+    "glcm": {"aggregation": "both", "distance": 1},
+    "glrlm": {"aggregation": "both", "distance": 1},
+    "ngtdm": {"distance": 1},
+    "ngldm": {"distance": 1, "alpha": 0}
+  }
+}
+
+
+
