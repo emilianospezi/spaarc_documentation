@@ -23,13 +23,23 @@ This repository contains text and video instructions for the use of SPAARC acros
 
 ## Contents 
 
-### 1. Installation and configuration of SPAARC 
-   - a. MICE installation and setup ([link](1_a_SPAARC_installation_and_setup.md))
-   - b. MATLAB installation and setup  ([link](1_b_SPAARC_MATLAB_installation_and_setup.md))
-   - c. Anaconda python environment installation and setup
-
+### 1. Installation and configuration of SPAARC
  
+- a. MICE installation and setup ([link](1_a_SPAARC_installation_and_setup.md))
+- b. MATLAB installation and setup  ([link](1_b_SPAARC_MATLAB_installation_and_setup.md))
+- c. Anaconda python environment installation and setup
 
+### 2. Running radiomics analysis with SPAARC
+
+- a. Structure of json file
+- b. Running radiomics analysis in MICE Toolkit  ([link](2_b_SPAARC_MICE_Demo.md))
+  - i. NIfTI example (single and batch)
+  - ii. DICOM RTSTRUCT example
+- c. Running radiomics analysis in MATLAB
+- d. Running radiomics analysis in a Python environment (Batch)
+
+
+### 3. General Tips 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

@@ -37,3 +37,8 @@
 4. Ensure you have been provided with a valid SPAARC licence (Matlab) and add it to the Matlab path as well. 
 
 That is all!
+
+To run IBSI feature check once Matlab is installed:
+```MATLAB
+SPAARC_unitTests({'IBSI_Feature_check'})
+```
