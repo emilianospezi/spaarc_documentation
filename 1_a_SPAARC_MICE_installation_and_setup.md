@@ -34,7 +34,7 @@ Set up custom environment for spaarc assuming a fresh installation of MICE toolk
 
 ####  4. Run _WinPython Command Prompt.exe_
 
-- In command prompt, run:
+- In WinPython command prompt, run:
 
     ```
     pip install -r requirements.txt

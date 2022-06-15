@@ -20,7 +20,7 @@ IBSI guidelines (https://theibsi.github.io).
 ## Purpose
 This repository contains text and video instructions for the use of SPAARC across different platforms 
 
-- MICE Toolkit / Hero Imaging 
+- [MICE Toolkit](https://micetoolkit.com) / [Hero Imaging](http://heroimaging.com/spaarc) 
 - Matlab
 - Python 
 
