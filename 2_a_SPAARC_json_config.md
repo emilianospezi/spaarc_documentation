@@ -8,7 +8,7 @@
 Settings for feature extraction are defined in a configuration file in _json_ format. All runs must have an accompanying 
 configuration file. 
 
-All feature extraction follows [IBSI guidelines](https://arxiv.org/pdf/1612.07003.pdf).
+
 
 Example:
 
@@ -38,8 +38,9 @@ Feature families can be removed if not desired.
 
 ### Options
 
+All feature extraction follows [IBSI guidelines](https://arxiv.org/pdf/1612.07003.pdf).
 
-<br>
+
 
 | feature_families tag | full name                                  |
 |:---------------------|:-------------------------------------------|
@@ -64,11 +65,12 @@ Feature families can be removed if not desired.
 
 
 - **re_segmentation_range** 
-  - Set resegmentation range. For example [-200 200] HU would be {"min": -200, "max": 200}. If no
-  segmentation is desired, set max and min to an EMPTY STRING, i.e. {"min": "", "max": ""}
+  - Set resegmentation range. For example [-200 200] HU would be {"min": -200, "max": 200}.
+  - If no segmentation is desired, set max and min to an **empty** string, i.e. {"min": "", "max": ""}
   
 - **re_segmentation_outlier_filtering** 
-  - If you want to apply outlier filtering using standard deviation from mean (e.g. 3sigma), this is set here.
+  - If you want to apply outlier filtering using standard deviation from mean (e.g. 3sigma):
+    - set **apply** to _true_ and decide **sigma** (3 is recommended)
 
 - **bin_method**
   - Set binning method for discretization of image intensities. 
