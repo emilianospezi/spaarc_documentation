@@ -34,7 +34,7 @@ This repository contains text and video instructions for the use of SPAARC acros
 
 ### 2. Running radiomics analysis with SPAARC
 
-- a. Structure of json file
+- a. Structure of json file ([link](2_a_SPAARC_json_config.md))
 - b. Running radiomics analysis in MICE Toolkit  ([link](2_b_SPAARC_MICE_Demo.md))
   - i. NIfTI example (single and batch)
   - ii. DICOM RTSTRUCT example
