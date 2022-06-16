@@ -16,6 +16,7 @@
 
 ## SPAARC MICE / Hero imaging plugin
 
+- Best practice for structuring a MICE database for batch processing. 
 - Demo video using the current plugin (will update config file approach before launch)
 - Setting up a basic batch process and compute results
 

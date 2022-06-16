@@ -5,8 +5,11 @@
 ### [Video](videos/1_a_SPAARC_MICE_Toolkit_Installation.mp4)
 
 ## Overview
-Set up custom environment for spaarc assuming a fresh installation of MICE toolkit. 
+Set up custom environment for spaarc assuming a fresh installation of [MICE Toolkit](https://micetoolkit.com).
 
+Assuming user has a premium licence for MICE Toolkit. 
+
+## Installation  
 
 #### 1. Download WinPython 3.9.10.0 environment
 
