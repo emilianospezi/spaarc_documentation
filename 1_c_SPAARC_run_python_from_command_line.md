@@ -53,11 +53,14 @@ pytest
 
 ## Run batch analysis 
 
+### [Video](videos/2_d_SPAARC_python_batch.mp4)
 
 **1. Activate the above environment and navigate to the spaarcpython directory.**
 
 **2. Have a .csv file with two columns. Each row is a patient. The first column points
-to the image and the second to the corresponding mask.** e.g. (note this need to be full path and is machine specific): 
+to the image and the second to the corresponding mask.** 
+
+Note this need to be full path and is machine specific, e.g: 
 
 
 <img src="attachments/batch_nifti_csv.png" width="900">
