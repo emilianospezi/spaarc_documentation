@@ -30,7 +30,7 @@ This repository contains text and video instructions for the use of SPAARC acros
  
 - a. MICE installation and setup ([link](1_a_SPAARC_MICE_installation_and_setup.md))
 - b. MATLAB installation and setup  ([link](1_b_SPAARC_MATLAB_installation_and_setup.md))
-- c. Anaconda python environment installation and setup
+- c. Anaconda python environment installation and setup ([link](1_c_SPAARC_python_setup_conda_enviroment.md))
 
 ### 2. Running radiomics analysis with SPAARC
 

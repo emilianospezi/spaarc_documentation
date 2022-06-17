@@ -2,6 +2,7 @@
 
 ### [Back to Contents](README.md)
 
+### [Video](videos/1_c_SPAARC_python_setup_conda_enviroment.mp4)
 
 ## Pre-requisites 
 
