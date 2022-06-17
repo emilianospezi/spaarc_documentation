@@ -46,8 +46,10 @@ conda install pip
 pip install -r requirements.txt
 ```
 
-**5. Run pytest to check code **
-
+**5. Run pytest to check code installation was successful**
+```commandline
+pytest
+```
 
 ## Run batch analysis 
 
