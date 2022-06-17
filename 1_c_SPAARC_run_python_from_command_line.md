@@ -2,15 +2,14 @@
 
 ### [Back to Contents](README.md)
 
-### [Video](videos/1_c_SPAARC_python_setup_conda_enviroment.mp4)
-
 ## Pre-requisites 
 
 - Download and install [Anaconda](https://www.anaconda.com/products/distribution).
 - Download spaarcpython directory.
 
-
 ## Create a new python environment to run SPAARC
+
+### [Video](videos/1_c_SPAARC_python_setup_conda_enviroment.mp4)
 
 **1. After installing Anaconda, create a new conda environment.** 
 
@@ -54,19 +53,29 @@ pytest
 
 ## Run batch analysis 
 
-Remember, you need to activate the above environment and navigate to the spaarcpython directory to run batch processing.
 
-**1. ensure**
+**1. Activate the above environment and navigate to the spaarcpython directory.**
 
-
-
-
+**2. Have a .csv file with two columns. Each row is a patient. The first column points
+to the image and the second to the corresponding mask.** e.g. (note this need to be full path and is machine specific): 
 
 
+<img src="attachments/batch_nifti_csv.png" width="900">
+
+> The  NIfTI image and mask **MUST** be the same dimensions. 
+
+**3. Have a [json config file](2_a_SPAARC_json_config.md)**
+
+
+**4. From the conda environment terminal, inside the spaarcpython repository, run:**
+
+```
+python spaarcBatchAnalysis.py <patient_filelist.csv>  <config.json>
+```
 
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
