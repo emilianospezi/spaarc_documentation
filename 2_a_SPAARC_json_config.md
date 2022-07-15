@@ -101,7 +101,7 @@ A "distance" setting determines the number of voxel steps the texture  algorithm
 
 - **"interpolation"**
   - to resample the image to a new voxel size before feature extraction, an interpolation can be performed. 
-  - If no interpolation is desired, delete the whole interpolation field line.
+  - If no interpolation is desired, simply delete the whole interpolation field line.
 
   - required 3 subfields:
 

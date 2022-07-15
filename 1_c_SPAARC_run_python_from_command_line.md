@@ -76,7 +76,7 @@ Note this need to be full path and is machine specific, e.g:
 python spaarcBatchAnalysis.py <patient_filelist.csv>  <config.json>
 ```
 
-
+where replace <> with fullfile locations to the desired patient list and configuration file
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

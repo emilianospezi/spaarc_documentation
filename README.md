@@ -21,8 +21,8 @@ IBSI guidelines (https://theibsi.github.io).
 This repository contains text and video instructions for the use of SPAARC across different platforms 
 
 - [MICE Toolkit](https://micetoolkit.com) / [Hero Imaging](http://heroimaging.com/spaarc) 
-- Matlab
-- Python 
+- Matlab (Matlab 2021a Recommended)
+- Python (3.10)
 
 ## Contents 
 
@@ -39,10 +39,17 @@ This repository contains text and video instructions for the use of SPAARC acros
   - i. NIfTI example (single and batch) ([link](2_b_SPAARC_MICE_Demo.md))
   - ii. DICOM RTSTRUCT example ([link](2_b_SPAARC_MICE_Demo.md))
 - c. Running radiomics analysis in MATLAB
-- d. Running radiomics analysis in a Python environment (Batch)
+- d. Running radiomics analysis in a Python environment ([link](1_c_SPAARC_run_python_from_command_line.md))
 
 
-### 3. General Tips 
+### 3. Advanced 
+
+- Settings and filtering options (MATLAB version)
+
+
+### 3. Other utilities
+
+- a. Using the Conformity Index plugin ([link](conformity_index_plugin.md))
 
 
 
