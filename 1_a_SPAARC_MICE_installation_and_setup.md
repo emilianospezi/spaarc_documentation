@@ -11,9 +11,11 @@ Assuming user has a premium licence for MICE Toolkit.
 
 ## Installation  
 
-#### 1. Download WinPython 3.9.10.0 environment
+#### 1. Download & Install WinPython 3.9.10.0 environment
 
-- https://sourceforge.net/projects/winpython/
+- Download from: https://sourceforge.net/projects/winpython/
+- Extract WinPython environment (default extracts in Download folder)
+- Move WinPython folder in preferred location (e.g. C:\WPy64-39100 or C:\Programs\WPy64-39100) 
 
 ####  2. Collect requirements.txt from spaarc python code
 
