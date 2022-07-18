@@ -13,7 +13,7 @@ Assuming user has a premium licence for MICE Toolkit.
 
 #### 1. Download WinPython 3.9.10.0 environment
 
-- https://sourceforge.net/projects/winpython/files/WinPython_3.9/3.9.10.0/Winpython64-3.9.10.0.exe/download
+- https://sourceforge.net/projects/winpython/
 
 ####  2. Collect requirements.txt from spaarc python code
 
