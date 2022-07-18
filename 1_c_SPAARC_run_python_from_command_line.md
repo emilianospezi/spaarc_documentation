@@ -1,4 +1,4 @@
-# SPAARC python: Run batch analysis with Anaconda enviroment
+# SPAARC in Python: Installation & Setup
 
 ### [Back to Contents](README.md)
 
