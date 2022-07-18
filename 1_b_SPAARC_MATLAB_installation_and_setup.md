@@ -1,4 +1,4 @@
-# SPAARC Matlab: Installation & Setup
+# SPAARC in Matlab: Installation & Setup
 
 ### [Back to Contents](README.md)
 
