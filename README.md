@@ -39,7 +39,7 @@ This repository contains text and video instructions for the use of SPAARC acros
   - i. NIfTI example (single and batch) ([link](2_b_SPAARC_MICE_Demo.md))
   - ii. DICOM RTSTRUCT example ([link](2_b_SPAARC_MICE_Demo.md))
 - c. Running radiomics analysis in MATLAB
-- d. Running radiomics analysis in a Python environment ([link](1_c_SPAARC_run_python_from_command_line.md))
+- d. Running radiomics analysis in a Pure Python environment ([link](1_c_SPAARC_run_python_from_command_line.md))
 
 
 ### 3. Advanced 

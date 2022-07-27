@@ -41,6 +41,8 @@ sub- settings appropriately. In SPAARC, these settings are converted into Matlab
 All the above fields are required in the json file for SPAARC to run. This above example can be used as a template.
 Feature families can be removed if not desired.
 
+[See example file in ./demos/MICE_toolkit/configs/](./demos/MICE_toolkit/configs/STS_configCT_noInterp.json)
+
 ### Options
 
 All feature extraction follows [IBSI guidelines](https://arxiv.org/pdf/1612.07003.pdf).
