@@ -18,11 +18,16 @@ IBSI guidelines (https://theibsi.github.io).
 
 
 ## Purpose
-This repository contains text and video instructions for the use of SPAARC across different platforms 
+This repository contains text and video instructions for the use of SPAARC across different platforms.
+
 
 - [MICE Toolkit](https://micetoolkit.com) / [Hero Imaging](http://heroimaging.com/spaarc) 
 - Matlab (Matlab 2021a Recommended)
-- Python (3.10)
+- Python (3.9.10 or 3.10)
+
+
+SPAARC has been implemented from scratch in both Python and Matlab to allowed integration with APIs of
+different software. Note that the two versions are standalone, though both rigorously match IBSI benchmarks.
 
 ## Contents 
 
@@ -47,7 +52,7 @@ This repository contains text and video instructions for the use of SPAARC acros
 - Settings and filtering options (MATLAB version)
 
 
-### 3. Other utilities
+### 4. Other utilities
 
 - a. Using the Conformity Index plugin ([link](conformity_index_plugin.md))
 

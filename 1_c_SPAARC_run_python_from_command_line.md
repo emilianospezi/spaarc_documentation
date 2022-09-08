@@ -2,6 +2,8 @@
 
 ### [Back to Contents](README.md)
 
+## Using Anaconda 
+
 ## Pre-requisites 
 
 - Download and install [Anaconda](https://www.anaconda.com/products/distribution).
@@ -77,6 +79,18 @@ python spaarcBatchAnalysis.py <patient_filelist.csv>  <config.json>
 ```
 
 where replace <> with fullfile locations to the desired patient list and configuration file
+
+
+## Alternatively, you can use Winpython instead of Anaconda 
+
+If you have set up Winpython for use with the MICE Toolkit plugin ([link](1_a_SPAARC_MICE_installation_and_setup.md)), 
+you can run through that instead of using Anaconda. 
+
+Simply launch WinPython Command Prompt.exe and navigate to the spaarcpython folder. 
+Then, follow the steps in __Run batch analysis__ above. 
+
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
