@@ -1,0 +1,24 @@
+{
+  "saveDIR": "/Users/whybrap/Desktop/python_batch_demo",
+  "feature_families": ["morph","stats", "ih", "ivh", "glcm", "glrlm", "glszm", "gldzm", "ngldm", "ngtdm"],
+
+  "re_segmentation_range": {"min": 0, "max": ""},
+  "re_segmentation_outlier_filtering": {"apply": false, "sigma": 3},
+
+  
+  "bin_method": "FBS",
+  "bin_value": 0.25,
+  "analysis_type": "3D",
+
+  "texture_parameters":{
+    "glcm": {"aggregation": "merged", "distance": 1},
+    "glrlm": {"aggregation": "merged", "distance": 1},
+    "ngtdm": {"distance": 1},
+    "ngldm": {"distance": 1, "alpha": 0}
+  },
+
+  "ivh_parameters":{"bin_method":"FBS", "bin_value":0.1}
+}
+
+
+
