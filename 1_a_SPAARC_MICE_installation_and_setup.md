@@ -11,7 +11,7 @@ Assuming user has a premium licence for MICE Toolkit.
 
 ## Installation  
 
-#### 1. Download & Install WinPython 3.9.10.0 environment
+#### 1. Download & Install WinPython 3.9 environment
 
 - Download from: https://sourceforge.net/projects/winpython/
 - Extract WinPython environment (default extracts in Download folder)
@@ -28,8 +28,9 @@ Assuming user has a premium licence for MICE Toolkit.
     pandas==1.4.0
     pytest==6.2.5
     scikit_image==0.19.1
-    scipy==1.7.3
-    SimpleITK
+    simpleitk==2.1.1
+    #for windows try this if cannot find simpleitk version
+    #simpleitk==2.1.1.1
     ```
 
 ####  3. Put requirements.txt into scripts folder of WinPython download
@@ -49,3 +50,8 @@ Assuming user has a premium licence for MICE Toolkit.
 
 - Go to Menu PLUGIN -> Python Settings -> use external interpreter and select python.exe from 
 WPy64-39100\python-3.9.10.amd64 folder.
+
+
+####  6. Import the mice plugin file located in spaarcpython directory (.plg) into MICE from the dropdown plugin menu
+
+- When updated, the corefunctions should be copied into the plugin file inside MICE with the same name.  

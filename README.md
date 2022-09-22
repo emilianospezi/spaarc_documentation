@@ -23,7 +23,7 @@ This repository contains text and video instructions for the use of SPAARC acros
 
 - [MICE Toolkit](https://micetoolkit.com) / [Hero Imaging](http://heroimaging.com/spaarc) 
 - Matlab (Matlab 2021a Recommended)
-- Python (3.9.10 or 3.10)
+- Python (3.9.10)
 
 
 SPAARC has been implemented from scratch in both Python and Matlab to allowed integration with APIs of

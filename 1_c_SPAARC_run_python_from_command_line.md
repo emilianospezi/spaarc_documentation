@@ -20,7 +20,7 @@ In this example the new environment is named spaarc_env
 In the terminal (mac) or Anaconda Prompt (Windows) type:  
 
 ```commandline
-conda create --name spaarc_env python=3.10. 
+conda create --name spaarc_env python=3.9. 
 ```
 
 
