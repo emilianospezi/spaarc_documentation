@@ -38,6 +38,19 @@ inputP.struct_name  = 'GTV_Mass_CT';
 
 # Filtering 
 
-In
+In Matlab, we can do batch filtering by adding another feature family to the feature_families tag in the 
+json file. 
 
-> batchFilteringSpaarcConfig
+| feature_families tag  | full name             |
+|:----------------------|:----------------------|
+| LoG                   | Laplacian of Gaussian |
+| Laws                  | Law's Filters         |
+ | sep_wavelets          | Separable wavelets    | 
+
+
+Examples of the settings used are found in:
+
+> batchFilteringSpaarcConfig.json
+ 
+
+which is located within matlab spaarc directory.
