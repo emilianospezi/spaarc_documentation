@@ -11,14 +11,14 @@ Running spaarc requires a valid licence to also be on the matlab path
 
 We also assume you have installed CERR already on the matlab path. 
 
-### 1. Assuming data has been imported using CERR into a planC format. 
+### 1. We assume data has been imported using CERR into a planC format. 
 - E.g. see the .mat files in demos/matlab/Data/Example_CTs
 
 ### 2. Open the demo file 
 > run_featureExtraction_using_json_config.m
 
 ### 3. Use function trialBuildFileListGUI to build filelist and pathname 
-- load this file into Matlab
+- Load this file into Matlab
 - In the Demo this is called _FileLocation.mat_
 
 ### 4. Ensure associated configuration file is read
@@ -53,4 +53,4 @@ Examples of the settings used are found in:
 > batchFilteringSpaarcConfig.json
  
 
-which is located within matlab spaarc directory.
+which is located within matlab spaarc directory. More information about the filtering settings for each 
