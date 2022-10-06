@@ -1,5 +1,6 @@
 {
-  "feature_families": ["morph","stats", "ih", "ivh", "glcm", "glrlm", "glszm", "gldzm", "ngldm", "ngtdm"],
+  "feature_families": ["morph","stats", "ih", "ivh", "glcm", "glrlm", 
+                       "glszm", "gldzm", "ngldm", "ngtdm", "LoG"],
 
   "re_segmentation_range": {"min": -200, "max": 200},
   "re_segmentation_outlier_filtering": {"apply": false, "sigma": 3},

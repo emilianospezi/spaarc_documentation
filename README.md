@@ -43,7 +43,7 @@ different software. Note that the two versions are standalone, though both rigor
 - b. Running radiomics analysis in MICE Toolkit  ([link](2_b_SPAARC_MICE_Demo.md))
   - i. NIfTI example (single and batch) ([link](2_b_SPAARC_MICE_Demo.md))
   - ii. DICOM RTSTRUCT example ([link](2_b_SPAARC_MICE_Demo.md))
-- c. Running radiomics analysis in MATLAB
+- c. Running radiomics analysis in MATLAB ([link](2_c_Running_radiomics_analysis_in_MATLAB.md))
 - d. Running radiomics analysis in a Pure Python environment ([link](1_c_SPAARC_run_python_from_command_line.md))
 
 

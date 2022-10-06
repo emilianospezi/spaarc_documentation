@@ -35,3 +35,9 @@ inputP.struct_name  = 'GTV_Mass_CT';
 ```
 
 ### 5. Run the demo file to begin feature extraction
+
+# Filtering 
+
+In
+
+> batchFilteringSpaarcConfig
