@@ -49,7 +49,9 @@ different software. Note that the two versions are standalone, though both rigor
 
 ### 3. Advanced 
 
-- Settings and filtering options (MATLAB version)
+- a. Checking IBSI compliance ([link](3_a_ibsi_benchmark_check.md))
+- b. Additional notes on batch filtering options. 
+
 
 
 ### 4. Other utilities
