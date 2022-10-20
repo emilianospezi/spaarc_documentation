@@ -16,9 +16,9 @@ This will check the current code against IBSI benchmarks.
 ### [See video](videos/MICE_IBSI_Benchmark_check_with_workflow.mp4)
 
 
-From the following folder:
+From the following folder for the spaarc Python code:
 
-> ~/spaarcpython/benchmark_spaarc_plugin
+> ~/spaarcpython/plugins/benchmark_spaarc_plugin
 
 The workflow **Testing_spaarc_with_phantoms.ice** should be loaded into MICE. 
 
