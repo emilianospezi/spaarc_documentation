@@ -2,6 +2,9 @@
 
 ### [Back to Contents](README.md)
 
+### [Video](videos/2_c_Running_radiomics_analysis_in_MATLAB.mp4)
+
+
 Demo files can be found in this repository in demos/matlab 
 
 Running spaarc requires a valid licence to also be on the matlab path 
