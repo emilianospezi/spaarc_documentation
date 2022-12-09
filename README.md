@@ -50,7 +50,7 @@ different software. Note that the two versions are standalone, though both rigor
 ### 3. Advanced 
 
 - a. Checking IBSI compliance ([link](3_a_ibsi_benchmark_check.md))
-- b. Additional notes on batch filtering options. 
+- b. Additional notes on batch filtering options for Matlab version of spaarc. ([link](3_b_more_on_filters.md))
 
 
 
