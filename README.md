@@ -1,7 +1,7 @@
 # Spaarc documentation
 
 
-<img src="attachments/spaarclogo.png" width="500">
+<img src="attachments/spaarc_logo_landscape_rgb.jpg" width="500">
 
 
 ## Overview
