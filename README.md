@@ -14,7 +14,7 @@ Engineering. SPAARC-Radiomics includes a total of 164 features: 23 Morphology,
 5 Neighboring Gray Tone Difference Matrix (NGTLDM), and 15 Neighborhood Gray Level 
 Dependence Matrix (NGLDM). SPAARC-Radiomics features comply with the definitions provided 
 by the Image Biomarker Standardization Initiative (IBSI) and are standardized following the 
-IBSI guidelines (https://theibsi.github.io).
+IBSI guidelines (https://theibsi.github.io). The official SPAARC-Radiomics website is: https://spaarc-radiomics.io/.
 
 
 ## Purpose
